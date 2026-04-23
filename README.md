@@ -11,7 +11,7 @@ The goal of this project was to analyze regional sales performance and product p
 
 ## Key Insights
 - **Top Performer:** The **West Region** led in total revenue, driven largely by high-ticket Tech items (Macbook Pro, iPhone 15).
-- **Profitability Red Flag:** While **Furniture** has high sales volume (e.g., Ergo Chairs), it consistently shows lower profit margins compared to the Tech category.
+- **Profitability Red Flag:** While **Furniture** has high sales volume, it consistently shows lower profit margins compared to the Tech category.
 - **Growth Trend:** Monthly sales showed a steady upward trajectory from January to May, with a notable spike in Tech sales in February.
 
 ## Data
