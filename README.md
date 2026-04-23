@@ -14,6 +14,11 @@ The goal of this project was to analyze regional sales performance and product p
 - **Profitability Red Flag:** While **Furniture** has high sales volume (e.g., Ergo Chairs), it consistently shows lower profit margins compared to the Tech category.
 - **Growth Trend:** Monthly sales showed a steady upward trajectory from January to May, with a notable spike in Tech sales in February.
 
+## Data
+
+<img width="927" height="562" alt="image" src="https://github.com/user-attachments/assets/b6d7f50b-5e81-4ac9-aaf2-d75026b97496" />
+
+
 ## Dashboard
 
 <img width="1211" height="681" alt="image" src="https://github.com/user-attachments/assets/d2d5add3-71bb-4f51-abd5-1bfaa3d0751a" />
